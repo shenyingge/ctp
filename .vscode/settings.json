@@ -1,0 +1,11 @@
+{
+    "vim.smartRelativeLine": true,
+    "files.associations": {
+        "*.js": "javascript",
+        "*.sass": "scss",
+        "*.json": "json",
+        "*.sh": "shellscript",
+        "iostream": "cpp",
+        "condition_variable": "cpp"
+    }
+}
