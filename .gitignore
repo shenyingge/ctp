@@ -2,3 +2,5 @@
 *.o
 *.con
 account_setting.txt
+ctp_run
+.vscode
